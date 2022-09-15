@@ -11,7 +11,7 @@ namespace ConsoleApp1
             Random z = new Random();
 
             int n = z.Next(51);
-            //Console.WriteLine(n);
+            //Console.WriteLine(n); вывод рандомного числа
             Console.WriteLine("Угадай рандомное число от 0 до 50. ");
             Console.WriteLine("Ответ:");
 
